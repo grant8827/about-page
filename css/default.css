@@ -1,0 +1,14 @@
+:root {
+    --size-10: 10px;
+    --size-20: 20px;
+    --size-30: 30px;
+    --size-40: 40px;
+    --size-50: 50px;
+    --size-100: 100px;
+    --size-150: 150px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
